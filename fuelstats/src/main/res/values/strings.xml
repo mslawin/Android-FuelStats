@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FuelStats</string>
+    <string name="app_version_name">Beta</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Sections -->
+    <string name="section_addStat">Add new stat</string>
+    <string name="section_bestStations">Best stations</string>
+    <string name="section_show_stats">Show stats</string>
+
+    <!-- Add stat-->
+    <string name="addStat_enterStation">Station name:</string>
+    <string name="addStat_enterDate">Date:</string>
+    <string name="addStat_datePlaceholder">DD/MM/YYYY</string>
+    <string name="addStat_enterFuelAmount">Amount of fuel:</string>
+    <string name="addStat_enterPrice">Price:</string>
+    <string name="addStat_enterKilometers">Kilometers:</string>
+    <string name="addStat_save">Save</string>
+
+    <!-- Show stats -->
+    <string name="showStats_emptyText">There is no stat recorded.</string>
+    <string name="showStats_deleteStat">Delete</string>
+    
+    <!-- Best stations -->
+    <string name="bestStations_bestFuel">
+        <![CDATA[
+            Best stations in terms of <b>fuel</b> consumption per <b>100 km</b>
+        ]]>
+    </string>
+    <string name="bestStations_bestPrice">
+        <![CDATA[
+            Best stations in terms of <b>price</b> per <b>100 km</b>
+        ]]>
+    </string>
+    <string name="bestStations_allStatsFuel">Total amount of fuel:</string>
+    <string name="bestStations_allStatsKilometers">Total amount of kilometers:</string>
+    <string name="bestStations_allStatsPrice">Total price:</string>
+    <string name="bestStations_getStationsError">Unable to fetch best stations</string>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>

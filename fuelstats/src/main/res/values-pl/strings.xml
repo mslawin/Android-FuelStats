@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spalanie</string>
+    <string name="app_version_name">Beta</string>
+    <string name="action_example">Przykładowa akcja</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="navigation_drawer_open">Otwórz panel nawigacyjny</string>
+    <string name="navigation_drawer_close">Zamknij panel nawigacyjny</string>
+
+    <!-- Sections -->
+    <string name="section_addStat">Dodaj nowy wpis</string>
+    <string name="section_bestStations">Najlepsze stacje</string>
+    <string name="section_show_stats">Pokaż wszystkie</string>
+
+    <!-- Add stat-->
+    <string name="addStat_enterStation">Nazwa stacji:</string>
+    <string name="addStat_enterDate">Data:</string>
+    <string name="addStat_datePlaceholder">DD/MM/RRRR</string>
+    <string name="addStat_enterFuelAmount">Ilość paliwa:</string>
+    <string name="addStat_enterPrice">Cena:</string>
+    <string name="addStat_enterKilometers">Liczba kilometrów:</string>
+    <string name="addStat_save">Zapisz</string>
+
+    <!-- Show stats -->
+    <string name="showStats_emptyText">Nie ma jeszcze żadnego wpisu.</string>
+    <string name="showStats_deleteStat">Usuń</string>
+    
+    <!-- Best stations -->
+    <string name="bestStations_bestFuel">
+        <![CDATA[
+            Najlepsze stacje pod względem <b>zużycia paliwa</b> na <b>100 km</b>
+        ]]>
+    </string>
+    <string name="bestStations_bestPrice">
+        <![CDATA[
+            Najlepsze stacje pod względem <b>ceny</b> na <b>100 km</b>
+        ]]>
+    </string>
+    <string name="bestStations_allStatsFuel">Liczba zużytego paliwa:</string>
+    <string name="bestStations_allStatsKilometers">Liczba przejachanych kilometrów:</string>
+    <string name="bestStations_allStatsPrice">Liczba wydanych pieniędzy:</string>
+    <string name="bestStations_getStationsError">Błąd wczytywania stacji</string>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>
