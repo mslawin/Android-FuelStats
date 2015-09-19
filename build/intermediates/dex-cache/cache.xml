@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/maciej/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/ormlite-android-4.48-a10225b659af9305164b76dfd0f54bc8a78b05d1.jar" />
+    </item>
+    <item
+        jar="/home/maciej/.gradle/caches/modules-2/files-2.1/org.roboguice/roboguice/3.0/9e1de0dd617a1b1abcb71404c2d058b629cbf414/roboguice-3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e1de0dd617a1b1abcb71404c2d058b629cbf414">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/roboguice-3.0-028ebcd00d8378266312c88225780b9692378850.jar" />
+    </item>
+    <item
+        jar="/home/maciej/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.2/a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d/joda-time-2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/joda-time-2.2-f955419cd3aaa395b01f0bcc10810ff6b568b0d6.jar" />
+    </item>
+    <item
+        jar="/home/maciej/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-jdbc/4.48/b915ebd2c4b901eec32e4df44e5503752e92ce38/ormlite-jdbc-4.48.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b915ebd2c4b901eec32e4df44e5503752e92ce38">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/ormlite-jdbc-4.48-d381164f2c656eff97119b08d08c50780fa63d8a.jar" />
+    </item>
+    <item
+        jar="/home/maciej/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/ormlite-core-4.48-dd337aaf8adb4fbd65ebe832cfdf2daa44364a1b.jar" />
+    </item>
+    <item
+        jar="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/classes-d175e7cff362163575d091b1f45044bee87f0abc.jar" />
+    </item>
+    <item
+        jar="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/internal_impl-21.0.2-18b54e2e05a0139bc9911b578f1a3f1334fd406d.jar" />
+    </item>
+    <item
+        jar="/home/maciej/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/commons-collections-3.2.1-16a77bf381ee4971b0652b8d9748d50fd4179f1d.jar" />
+    </item>
+    <item
+        jar="/home/maciej/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/support-annotations-21.0.2-a59e4111e767ab239c418c272cf26749d5987b92.jar" />
+    </item>
+    <item
+        jar="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/maciej/Documents/mydocuments/Android-FuelStats/fuelstats/build/intermediates/pre-dexed/release/classes-6cff89a038636495cfaffe46d42ce359c3c006ac.jar" />
+    </item>
+
+</items>
